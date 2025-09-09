@@ -31,8 +31,8 @@ JÃ¡ tive contato com diversas tecnologias ao longo da minha jornada na programaÃ
 
 <p align="center">
   <a href="https://github.com/dudaselvatti">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-DO-GITHUB&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-DO-GITHUB&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dudaselvatti&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudaselvatti&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </p>
 
@@ -41,7 +41,6 @@ JÃ¡ tive contato com diversas tecnologias ao longo da minha jornada na programaÃ
 ### ğŸ“« Conecte-se comigo!
 
 Minhas redes:
-
 <p align="center">
 <a href="mailto:selvattifsp@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
