@@ -14,7 +14,7 @@
 
 ### 💻 Tecnologias e Linguagens
 
-Já tive contato com diversas tecnologias ao longo da minha jornada na programação. Estas são algumas delas:
+Algumas das tecnologias já exploradas:
 
 <p style="display: inline-block;" align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
