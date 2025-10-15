@@ -34,15 +34,12 @@ Algumas das tecnologias já exploradas:
 ### 📊 Minhas Estatísticas no GitHub
 
 <p align="center">
-  <a href="https://github.com/dudaselvatti">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dudaselvatti&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudaselvatti&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
+  <a href="https://github.com/dudaselvatti">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=dudaselvatti&theme=dracula&bg_color=282a36&color=f8f8f2&line=ff79c6&point=bd93f9&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+  </a>
 </p>
 <p align="center">
-  <a href="https://github.com/dudaselvatti">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dudaselvatti&theme=dracula&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
-  </a>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudaselvatti&layout=compact&langs_count=7&theme=dracula"/>
 </p>
 
 ---
