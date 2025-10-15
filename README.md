@@ -34,10 +34,11 @@ Algumas das tecnologias já exploradas:
 ### 📊 Minhas Estatísticas no GitHub
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards/main/graph/2/pt/dracula.svg" /><br/>
-  <img src="https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards/main/summarize/pt/dracula.svg" />
+  <a href="https://github.com/dudaselvatti">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dudaselvatti&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dudaselvatti&theme=dracula&date_format=j%20M%5B%20Y%5D"/>
+  </a>
 </p>
-
 ---
 
 ### 📫 Conecte-se comigo!
