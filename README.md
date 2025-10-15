@@ -22,6 +22,7 @@
   Atualmente, atuo como bolsista de <b>Iniciação Científica (IC)</b>, na qual desenvolvo a comunicação entre sensores, banco de dados e uma interface front-end. Anteriormente, participei de uma bolsa ensino como voluntária, na qual desenvolvi um <b>aplicativo para rastreabilidade na produção de jabuticabas</b>, demonstrando meu interesse em aplicar a tecnologia para solucionar problemas do mundo real.
 </p>
 
+- 🎂 **19** anos.
 - 🌱 Atualmente estou focada em: APIs RESTful com **Spring Boot**, arquitetura de software e aprofundando meus conhecimentos em **Linux**.
 - 📫 Como me encontrar: **selvattifsp@gmail.com**
 - 👩‍💻 Pronomes: **Ela/Dela**
@@ -29,36 +30,60 @@
 
 ## 🛠️ Hard Skills
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,python,java,javascript,php,html,css,mysql,git,docker,laravel,react" />
-  </a>
-</p>
+Abaixo estão as principais tecnologias, linguagens e ferramentas que utilizo nos meus projetos.
 
-<table align="center">
+<table align="center" width="90%">
   <tr>
-    <td align="center"><strong>Linguagens</strong></td>
-    <td align="center"><strong>Front-end</strong></td>
-    <td align="center"><strong>Back-end & Banco de Dados</strong></td>
-    <td align="center"><strong>Ferramentas & Outros</strong></td>
+    <td width="35%"><strong>Linguagens de Programação</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+    </td>
   </tr>
   <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"><br>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"><br>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+    <td><strong>Desenvolvimento Front-end</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
     </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"><br>
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"><br>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  </tr>
+  <tr>
+    <td><strong>Desenvolvimento Back-end</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
     </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"><br>
+  </tr>
+  <tr>
+    <td><strong>Bancos de Dados</strong></td>
+    <td>
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
     </td>
-    <td align="center">
+  </tr>
+  <tr>
+    <td><strong>Controle de Versão</strong></td>
+    <td>
       <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Ambientes de Desenvolvimento</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
+      <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse IDE">
+      <img src="https://img.shields.io/badge/Code::Blocks-939393?style=for-the-badge" alt="Code::Blocks">
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Plataformas Low-Code</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Kodular-8A48F4?style=for-the-badge&logo=kodular&logoColor=white" alt="Kodular">
     </td>
   </tr>
 </table>
@@ -123,8 +148,8 @@ Minha formação em <b>Engenharia da Computação</b> no IFSP me proporcionou um
 
 <p align="center">
   <a href="https://github.com/dudaselvatti">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dudaselvatti&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudaselvatti&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudaselvatti&layout=compact&langs_count=7&theme=dracula" alt="Linguagens Mais Usadas"/>
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dudaselvatti&theme=dracula" alt="Detalhes do Perfil GitHub"/>
   </a>
 </p>
 
