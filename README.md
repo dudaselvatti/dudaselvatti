@@ -22,7 +22,7 @@
   Atualmente, atuo como bolsista de <b>Iniciação Científica (IC)</b>, na qual desenvolvo a comunicação entre sensores, banco de dados e uma interface front-end. Anteriormente, participei de uma bolsa ensino como voluntária, na qual desenvolvi um <b>aplicativo para rastreabilidade na produção de jabuticabas</b>, demonstrando meu interesse em aplicar a tecnologia para solucionar problemas do mundo real.
 </p>
 
-- 🎂 **19** anos.
+- 🎂 **20** anos.
 - 🌱 Atualmente estou focada em: APIs RESTful com **Spring Boot**, arquitetura de software e aprofundando meus conhecimentos em **Linux**.
 - 📫 Como me encontrar: **selvattifsp@gmail.com**
 - 👩‍💻 Pronomes: **Ela/Dela**
