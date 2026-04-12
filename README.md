@@ -13,10 +13,10 @@
 ## 👩‍💻 Sobre Mim
 
 * 🎓 Estudante de Engenharia da Computação no **IFSP**.
-* 🔬 Bolsista de **Iniciação Científica (IC)**, focada em comunicação entre sensores, banco de dados e front-end.
-* 🍇 Experiência com desenvolvimento de **aplicativo para rastreabilidade** na produção de jabuticabas.
+* 🔬 Bolsista de **Iniciação Científica (IC)**, focada em comunicação entre sensores e front-end.
+* 🍇 Desenvolvi um **aplicativo para rastreabilidade** na produção de jabuticabas.
 * 🎂 **20** anos.
-* 🌱 Foco atual: Desenvolvimento mobile, microcontroladores, arquitetura e **Linux**.
+* 🌱 Foco atual: APIs RESTful com **Spring Boot**, arquitetura e **Linux**.
 * 📫 Contato: **selvattifsp@gmail.com**
 * 👩‍💻 Pronomes: **Ela/Dela**
 
@@ -49,24 +49,11 @@
     </td>
   </tr>
   <tr>
-    <td><strong>Banco de Dados</strong></td>
+    <td><strong>Bancos / Git</strong></td>
     <td>
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Controle de Versão</strong></td>
-    <td>
       <img src="https://img.shields.io/badge/GIT-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
       <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Ferramentas</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code">
-      <img src="https://img.shields.io/badge/Kodular-8A48F4?style=flat-square&logo=kodular&logoColor=white" alt="Kodular">
     </td>
   </tr>
 </table>
@@ -74,21 +61,20 @@
 ## 🎓 Formação
 
 Formação em **Engenharia da Computação** (IFSP) com base em:
-* **Programação/Algoritmos:** Estrutura de Dados, POO, Linguagens Formais.
-* **Software:** Front-end, Full-Stack, Banco de Dados. *Cursando: Eng. de Software, APIs/Microsserviços.*
-* **Hardware/Embarcados:** Eletrônica Analógica/Digital, Arquitetura, Sistemas Digitais.
-* **Exatas/Engenharia:** Cálculo, Álgebra Linear, Física, Equações Diferenciais.
+* **Software:** Front-end, Full-Stack, Banco de Dados, Eng. de Software e APIs.
+* **Hardware:** Eletrônica, Arquitetura de Computadores e Sistemas Digitais.
+* **Fundamentos:** Algoritmos, Estrutura de Dados (1 e 2), POO e Cálculo.
 
 ## 📊 Estatísticas GitHub
 
 <p align="center">
   <a href="https://github.com/dudaselvatti">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudaselvatti&layout=compact&langs_count=7&theme=dracula" alt="Linguagens Mais Usadas"/>
-  <img height="140em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dudaselvatti&theme=dracula" alt="Detalhes do Perfil GitHub"/>
+    <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=dudaselvatti&theme=dracula" alt="Linguagens Mais Usadas"/>
+    <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dudaselvatti&theme=dracula" alt="Detalhes do Perfil GitHub"/>
   </a>
 </p>
 
-## 📫 Conecte-se comigo!
+## 📫 Vamos nos conectar!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/maria-eduarda-alves-selvatti-1b05252ba/" target="_blank">
