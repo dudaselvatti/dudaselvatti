@@ -63,14 +63,13 @@
 Formação em **Engenharia da Computação** (IFSP) com base em:
 * **Software:** Front-end, Full-Stack, Banco de Dados, Eng. de Software e APIs.
 * **Hardware:** Eletrônica, Arquitetura de Computadores e Sistemas Digitais.
-* **Fundamentos:** Algoritmos, Estrutura de Dados (1 e 2), POO e Cálculo.
+* **Fundamentos:** Algoritmos, Estrutura de Dados, POO e Cálculo.
 
 ## 📊 Estatísticas GitHub
 
 <p align="center">
   <a href="https://github.com/dudaselvatti">
-    <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=dudaselvatti&theme=dracula" alt="Linguagens Mais Usadas"/>
-    <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dudaselvatti&theme=dracula" alt="Detalhes do Perfil GitHub"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dudaselvatti&theme=dracula" alt="Detalhes do Perfil GitHub"/>
   </a>
 </p>
 
