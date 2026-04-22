@@ -7,18 +7,16 @@
 </h2>
 
 <h4 align="center">
-  Desenvolvedora apaixonada por tecnologia e soluções criativas.
+  Desenvolvedora de Software | Pesquisadora | Foco em Mobile & Full-Stack
 </h4>
 
 ## 👩‍💻 Sobre Mim
 
-* 🎓 Estudante de Engenharia da Computação no **IFSP**.
-* 🔬 Bolsista de **Iniciação Científica (IC)**, focada em comunicação entre sensores e front-end.
-* 🍇 Desenvolvi um **aplicativo para rastreabilidade** na produção de jabuticabas.
-* 🎂 **20** anos.
-* 🌱 Foco atual: APIs RESTful com **Spring Boot**, arquitetura e **Linux**.
-* 📫 Contato: **selvattifsp@gmail.com**
-* 👩‍💻 Pronomes: **Ela/Dela**
+* 🎓 Estudante do 7º semestre de Engenharia da Computação no **IFSP - Câmpus Guarulhos**.
+* 🔬 Bolsista de **Iniciação Científica (2ª IC)** no **Laboratório Oficinas 4.0**, com pesquisa em arquitetura IoT, análise de dados e comunicação entre sensores (ESP32/MQTT) e sistemas.
+* 📱 Atuo como Scrum Master e Tech Lead em iniciativas como a startup **LANDGG Technology** e o projeto mobile **ShakeIt**.
+* 🌱 Foco atual: Desenvolvimento Mobile (**React Native**), Full-stack (**TypeScript, React, Spring Boot**) e Banco de Dados.
+* 📫 Contato: **selvattifsp@gmail.com** | Pronomes: **Ela/Dela**
 
 ## 🛠️ Hard Skills
 
@@ -26,51 +24,47 @@
   <tr>
     <td width="25%"><strong>Linguagens</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C">
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
+      <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C">
     </td>
   </tr>
   <tr>
-    <td><strong>Front-end</strong></td>
+    <td><strong>Front-end & Mobile</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+      <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native">
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
     </td>
   </tr>
   <tr>
-    <td><strong>Back-end</strong></td>
+    <td><strong>Back-end & IoT</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring">
-      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel">
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot">
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
+      <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white" alt="MQTT">
     </td>
   </tr>
   <tr>
-    <td><strong>Bancos / Git</strong></td>
+    <td><strong>Bancos de Dados & Git</strong></td>
     <td>
+      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
       <img src="https://img.shields.io/badge/GIT-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
     </td>
   </tr>
 </table>
 
-## 🎓 Formação
+## 🎓 Formação Acadêmica
 
-Formação em **Engenharia da Computação** (IFSP) com base em:
-* **Software:** Front-end, Full-Stack, Banco de Dados, Eng. de Software e APIs.
-* **Hardware:** Eletrônica, Arquitetura de Computadores e Sistemas Digitais.
-* **Fundamentos:** Algoritmos, Estrutura de Dados, POO e Cálculo.
+Engenharia da Computação aplicada com forte base em **Desenvolvimento Mobile e Full-Stack**, **Arquitetura de Internet das Coisas (IoT)** e **Engenharia de Software** (Boas práticas, Clean Code e metodologias ágeis).
 
 ## 📊 Estatísticas GitHub
 
 <p align="center">
-  <a href="https://github.com/dudaselvatti">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dudaselvatti&theme=dracula" alt="Detalhes do Perfil GitHub"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=dudaselvatti&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudaselvatti&layout=compact&theme=dracula&hide_border=true" alt="Linguagens mais usadas" width="48%"/>
 </p>
 
 ## 📫 Vamos nos conectar!
